@@ -7,6 +7,6 @@ public class PushPrint {
 		System.out.println("Add Java Class File Pusj");
 		System.out.println("World with 365");
 		
-	}
+	} 
 
 }
